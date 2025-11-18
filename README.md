@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Nasib Ahmadov</h1>
 <h3 align="center">A passionate software engineer who loves coding and building something great!</h3>
 

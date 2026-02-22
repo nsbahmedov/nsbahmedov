@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nasib-ahmadov-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasib-ahmadov-web" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmadovnasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadovnasib" height="30" width="40" /></a>
+<a href="tel:+994XXXXXXXXX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="phone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
